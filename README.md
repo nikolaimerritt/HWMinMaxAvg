@@ -1,0 +1,2 @@
+# HWMinMaxAvg
+Homework, first year
